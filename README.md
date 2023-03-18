@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-→ Aqui busco compartilhar um pouco mais do meu processo de aprendizado em <b>Data Science</b>, bem como mostrar alguns projetos que tenho desenvolvido. Meu objetivo com dados é fazer com que análises mais complexas se tornem fáceis de serem compreendidas.<br>
+→ Aqui busco compartilhar um pouco mais do meu processo de aprendizado em <b>Data Science</b>, bem como mostrar alguns projetos que tenho desenvolvido. Meu objetivo com dados é fazer com que análises se tornem decisões.<br>
   
 → Atualmente, trabalho como estagiário em business analyst e estou estudando modelos analíticos (preditivos e descritivos), bem como revisando conteúdos com foco na aréa de estatística e negócios.
 
