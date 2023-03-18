@@ -2,10 +2,10 @@
   <a href="https://www.linkedin.com/in/nicolassouz4" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolassouz4/"/></a>
   
-   <a href="#" alt="Github">
+   <a href="https://github.com/nicolassouz4" alt="Github">
   <img height="21e" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/nicolassouz4)"/></a>
   
-  <a href="#" alt="Gmail">
+  <a href="mailto:nidsouz4@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:nidsouz4@gmail.com"/></a>
   
 </p> 
