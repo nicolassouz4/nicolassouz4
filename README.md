@@ -58,6 +58,6 @@
 <!--- <a href="https://github.com/nicolassouz4/github-readme-stats">
   <img height="125em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolassouz4&theme=react&repo=Data_Portfolio"/>
 </a> !--->
-<a href="https://github.com/nicolassouz4/convoychat">
+<a href="https://github.com/nicolassouz4/Data_Science">
   <img height="125em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolassouz4&theme=react&repo=Data_Science"/>
 </a>
