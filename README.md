@@ -15,12 +15,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-→ Aqui busco compartilhar um pouco mais do meu processo de aprendizado em <b>Data Science</b>, bem como mostrar alguns projetos que tenho desenvolvido. Meu objetivo com dados é fazer com que análises se tornem decisões fundamentadas.<br>
+→ Here I try to share a little more of my learning process in <b>Data Science</b>, as well as show some projects that I have been developing. My goal with data is to turn analytics into informed decisions.<br>
   
-→ Atualmente, trabalho como estagiário em business analyst e estou estudando modelos analíticos (preditivos e descritivos), bem como revisando conteúdos com foco na aréa de estatística e negócios.
+→ Currently, I work as a business analyst intern and I am studying analytical models (predictive and descriptive), as well as reviewing content focused on the area of statistics and business.
 
 <p align="left">
-  🎲 Ciência de Dados:<br> 
+  🎲 Data Science:<br> 
 <img align="center" src="https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e">
   
 <img align="center" height="20em" src="https://camo.githubusercontent.com/19aea5e38e7ed16327b6b5774becd0124d6cd1bf2ed9d4a884612c7550509591/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50616e6461732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d50616e646173">
@@ -35,7 +35,7 @@
 </p>
 
 <p align="left">
-  ⚡ Ferramentas:<br> 
+  ⚡ Tools:<br> 
 <img align="center"  src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">
 <img align="center"  src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql">
 <img align="center"  src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white">
@@ -44,7 +44,7 @@
 </p>
 
 <br>
-<p> 📈 Estatísticas:<br>
+<p> 📈 Statistics:<br>
 </p>
 <p>
   <a href="https://github.com/nicolassouz4">
@@ -53,7 +53,7 @@
   </a>
 </p><br>
 
-<p> 📌 Principais Repositórios:<br>
+<p> 📌 Main Repositories:<br>
 </p>
 <a href="https://github.com/nicolassouz4/github-readme-stats">
   <img height="125em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolassouz4&theme=react&repo=Data_Portfolio"/>
