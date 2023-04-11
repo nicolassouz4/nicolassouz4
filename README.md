@@ -45,6 +45,7 @@
 
 <br>
 <p> 📈 Statistics:<br>
+</p>
   <a href="https://github.com/nicolassouz4">
     <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=nicolassouz4&theme=react&show_icons=true"/>
     <img align="center"  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolassouz4&theme=react&hide_progress=true)](https://github.com/nicolassouz4/github-readme-stats")/>
@@ -52,6 +53,7 @@
 </p><br>
 
 <p> 📌 Main Repositories:<br>
+</p>
 <a href="https://github.com/nicolassouz4/Data_Science">
   <img height="125em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolassouz4&theme=react&repo=Data_Science"/>
 </a>
