@@ -47,8 +47,8 @@
 <p> 📈 Statistics:<br>
 </p>
   <a href="https://github.com/nicolassouz4">
-    <img align="center" height="150em" src="https://github-readme-stats.vercel-sigma-five.app/api?username=nicolassouz4&theme=react&show_icons=true"/>
-    <img align="center"  height="150em" src="https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=nicolassouz4&theme=react&hide_progress=true)](https://github.com/nicolassouz4/github-readme-stats")/>
+    <img align="center" height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nicolassouz4&theme=react&show_icons=true"/>
+    <img align="center"  height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nicolassouz4&theme=react&hide_progress=true)](https://github.com/nicolassouz4/github-readme-stats")/>
   </a>
 </p><br>
 
