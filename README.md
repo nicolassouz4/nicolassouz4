@@ -17,7 +17,7 @@
 <p align="left"> 
 → Here I've shared a little more of my learning process in <b>Data Science</b>, as well as show some projects that I have been developing. My goal with data is to turn analytics into informed decisions.<br>
   
-→ Currently, I work as a business analyst intern and I am studying analytical models (predictive and descriptive), as well as reviewing content focused on the area of statistics and business.
+→ Currently, I work as a business analyst and I am studying analytical models (predictive and descriptive), as well as reviewing content focused on the area of statistics and business.
 
 <p align="left">
   🎲 Data Science:<br> 
