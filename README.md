@@ -58,13 +58,13 @@
 <p> 📌 Main Repositories:<br>
 </p>
 <a href="https://github.com/nicolassouz4/Data_Science">
-  <img height="100em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicolassouz4&theme=react&repo=Data_Science"/>
+  <img height="150em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicolassouz4&theme=react&repo=Data_Science"/>
 </a>
   
 <a href="https://github.com/nicolassouz4/Machine_Learning">
-   <img height="100em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicolassouz4&theme=react&repo=Machine_Learning"/>
+   <img height="150em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicolassouz4&theme=react&repo=Machine_Learning"/>
 </a>
 
 <a href="https://github.com/nicolassouz4/Python">
-   <img height="100em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicolassouz4&theme=react&repo=Python"/>
+   <img height="150em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicolassouz4&theme=react&repo=Python"/>
 </a>
