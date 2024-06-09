@@ -64,7 +64,3 @@
 <a href="https://github.com/nicolassouz4/Machine_Learning">
    <img height="120em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicolassouz4&theme=react&repo=Machine_Learning"/>
 </a>
-
-<a href="https://github.com/nicolassouz4/Python">
-   <img height="120em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicolassouz4&theme=react&repo=Python"/>
-</a>
