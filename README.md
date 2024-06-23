@@ -17,7 +17,7 @@
 <p align="left"> 
 → Here I've shared a little more of my learning process in <b>Data Science</b>, as well as show some projects that I have been developing. My goal with data is to turn analytics into informed decisions.<br>
   
-→ Currently, I work as a business analyst and I am studying analytical models (predictive and descriptive), as well as reviewing content focused on the area of statistics and business.
+→ Currently, I work as a business analyst and I have been studying analytical models (predictive and descriptive), as well as reviewing content focused on the area of statistics and business.
 
 <!--
 <p align="left">
@@ -63,4 +63,8 @@
   
 <a href="https://github.com/nicolassouz4/Machine_Learning">
    <img height="120em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicolassouz4&theme=react&repo=Machine_Learning"/>
+</a>
+
+<a href="https://github.com/nicolassouz4/Python">
+   <img height="120em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicolassouz4&theme=react&repo=Python"/>
 </a>
