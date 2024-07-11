@@ -37,10 +37,12 @@
 
 <p align="left">
   ⚡ Tools:<br> 
-<img align="center"  src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">
+
 <img align="center"  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
 <img align="center"  src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql">
 <img align="center"  src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white">
+<img align="center"  src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"><br>
+<img align="center"  src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">
 <img align="center"  src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)">
 <img align="center"  src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white">
 <img align="center"  src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flate&logo=microsoft-excel&logoColor=white">
